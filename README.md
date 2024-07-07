@@ -1,5 +1,5 @@
 # KafkaSpringboot
-''1. Create Springboot with kafka project'' 
+1. Create Springboot with kafka project 
    Reqired dependencies are : Spring web and Spring kafka are required for producer and consumer examples.
    When we create project in //spring.io.start  Spring boot version 3 and Jdk 17 required. 
    
