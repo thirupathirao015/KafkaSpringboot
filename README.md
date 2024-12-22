@@ -5,6 +5,9 @@
    
 ## 2.1 kafka download 
     https://kafka.apache.org/downloads
+    download Binary Files Reference here:
+    Scala 2.12  - kafka_2.12-3.9.0.tgz (asc, sha512)
+    Scala 2.13  - kafka_2.13-3.9.0.tgz (asc, sha512)
 
 ## 2.2  We have to Run below commands from kafka folder 
 open cmd(command line from kafka software folder)
